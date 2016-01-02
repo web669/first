@@ -10,6 +10,7 @@
     }
   ],
   "require": {
-    "phpmailer/phpmailer": "5.2.9"
+    "phpmailer/phpmailer": "5.2.9",
+    "twig/twig": "1.6.5"
   }
 }
