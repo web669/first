@@ -9,10 +9,7 @@
       "email": "email@example.com"
     }
   ],
-  "autoload": {
-    "classmap": ["app"]
-  },
   "require": {
-    "twig/twig": "1.9.2"
+    "phpmailer/phpmailer": "5.2.9"
   }
 }
